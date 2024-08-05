@@ -1,7 +1,6 @@
-# generate_readme.py
 
-def generate_readme():
-    readme_content = """
+
+
 # Document-QA using LLAMA-3.1.70B - RAG - ChromaDB
 
 ## Overview
