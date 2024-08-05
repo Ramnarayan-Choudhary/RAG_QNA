@@ -47,6 +47,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system utilizing 
 
 To set up and run the project, follow these steps:
 
-1. **Clone the Repository**:
+1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/yourusername/document-qa.git
+   git clone https://github.com/Ramnarayan-Choudhary/RAG_QNA.git
